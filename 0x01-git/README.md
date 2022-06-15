@@ -1,2 +1,2 @@
-not empty
-This is my first project on github
+Enjoying this first project.
+This is my first project on github.
